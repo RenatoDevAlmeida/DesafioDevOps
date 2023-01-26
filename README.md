@@ -6,7 +6,7 @@ Criação de um Dockerfile de Ubuntu/Wordpress/Postrgre + certificado ssl instal
 ## 🚀 Começando
 
 ### 📋 Pré-requisitos
-Basicamente para rodar o projeto é necessário o Docker instalado no seu S.O um terminal.
+Basicamente para rodar o projeto é necessário o Docker instalado no seu S.O e um terminal.
 
 ### 🔧 Instalação
  
